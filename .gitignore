@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+
+# Generated outputs
+models/
+batch_train_results/
+batch_results/
+logs/
+tmp/
+
+# Large model checkpoints / generated artifacts
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# Local OS files
+.DS_Store
+Thumbs.db
