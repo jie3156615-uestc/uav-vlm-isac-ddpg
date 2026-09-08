@@ -1,0 +1,25 @@
+scenario,group,metric,DDPG-VLM-ISAC,DDPG-ISAC,DDPG-VLM,DDPG-noISAC
+G1,nominal urban 6-GT,Reward,758.711,663.390,622.089,494.729
+G1,nominal urban 6-GT,DR (Mbps),5.866,5.432,5.001,4.665
+G1,nominal urban 6-GT,EE (Kbps/J),42.811,37.836,34.239,27.893
+G2,nominal urban 6-GT,Reward,740.459,702.783,603.944,494.084
+G2,nominal urban 6-GT,DR (Mbps),5.750,5.666,5.473,4.587
+G2,nominal urban 6-GT,EE (Kbps/J),41.948,40.602,37.951,27.795
+G3,nominal urban 6-GT,Reward,751.130,701.655,678.614,331.852
+G3,nominal urban 6-GT,DR (Mbps),5.865,5.751,5.514,5.181
+G3,nominal urban 6-GT,EE (Kbps/J),42.920,41.111,39.679,30.430
+G4,nominal urban 6-GT,Reward,748.745,683.829,616.633,491.322
+G4,nominal urban 6-GT,DR (Mbps),5.876,5.694,5.022,4.503
+G4,nominal urban 6-GT,EE (Kbps/J),42.980,40.503,34.303,27.592
+C1,complex large-scale,Reward,478.064,247.415,221.865,180.890
+C1,complex large-scale,DR (Mbps),2.570,1.253,1.069,1.049
+C1,complex large-scale,EE (Kbps/J),18.525,8.955,7.436,6.712
+C2,complex large-scale,Reward,402.562,318.362,229.662,136.061
+C2,complex large-scale,DR (Mbps),1.724,1.308,0.891,0.169
+C2,complex large-scale,EE (Kbps/J),12.092,9.200,6.550,1.130
+C3,complex large-scale,Reward,234.148,181.950,137.416,130.730
+C3,complex large-scale,DR (Mbps),0.013,0.011,0.009,0.005
+C3,complex large-scale,EE (Kbps/J),0.078,0.063,0.048,0.030
+C4,complex large-scale,Reward,429.609,300.676,244.112,188.170
+C4,complex large-scale,DR (Mbps),2.284,1.474,1.449,1.261
+C4,complex large-scale,EE (Kbps/J),17.197,10.794,9.509,7.547
